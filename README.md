@@ -9,14 +9,24 @@ Práctica de estructuras de datos y algoritmos para entrevistas técnicas y desa
 ```
 data-strcture/
 ├── arrays/          # Arreglos y operaciones básicas
-├── linked_lists/    # Listas enlazadas simples y dobles
-├── stacks/          # Pilas (LIFO)
-├── queues/          # Colas (FIFO)
-├── trees/           # Árboles binarios, AVL, BST
+├── linked_lists/    // Listas enlazadas simples y dobles
+├── stacks/          // Pilas (LIFO)
+├── queues/          // Colas (FIFO)
+├── trees/           // Árboles binarios, AVL, BST
 ├── graphs/          // Grafos y algoritmos de recorrido
 ├── hash_tables/     // Tablas hash
 ├── heaps/           // Montículos (Min/Max Heap)
-└── tries/           // Árboles de prefijos
+├── tries/           // Árboles de prefijos
+│
+├── javascript/      // Ejercicios en JavaScript (con contexto)
+│   ├── arrays/           # 🏭 Fabrica de Electronics
+│   ├── linked_lists/     # 🚚 Empresa RapidBox
+│   ├── stacks/          # 🍕 Pizzeria Mama Mia
+│   ├── queues/          # 🏦 Banco Trust&Safe
+│   ├── trees/           # 🌳 GeneTech (genealogía)
+│   ├── graphs/          # 🌐 Red Social ConnectAll
+│   ├── hash_tables/     # 🗄️ Base de Datos DataStore
+│   └── tries/           # 🔍 Motor de Búsqueda QuickSearch
 ```
 
 ---
@@ -36,7 +46,7 @@ data-strcture/
 |---------|---------------------------------|
 | 🟢 Básico     | Arrays, loops, stacks           |
 | 🟡 Intermedio | Linked Lists, queues, recursion |
-| 🔴 Avanzado   | Trees, graphs, optimization      |
+| 🔴 Avanzado   | Trees, graphs, optimization     |
 
 ---
 
