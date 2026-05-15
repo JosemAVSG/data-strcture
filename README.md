@@ -1,17 +1,54 @@
-# Estructuras de Datos - Práctica
+# 📚 Ejercicios de Estructuras de Datos
 
-Este repositorio contiene un scaffolding para practicar implementaciones de estructuras de datos comunes. Cada carpeta representa una estructura de datos diferente y contiene un README.md con problemas para resolver.
+Práctica de estructuras de datos y algoritmos para entrevistas técnicas y desarrollo de software.
 
-## Estructuras Incluidas
+---
 
-- **arrays**: Problemas relacionados con arreglos.
-- **linked_lists**: Problemas de listas enlazadas.
-- **stacks**: Problemas de pilas.
-- **queues**: Problemas de colas.
-- **trees**: Problemas de árboles.
-- **graphs**: Problemas de grafos.
-- **hash_tables**: Problemas de tablas hash.
-- **heaps**: Problemas de montículos.
-- **tries**: Problemas de tries.
+## 📁 Estructura del Proyecto
 
-Cada carpeta tiene 5 problemas que puedes implementar por tu cuenta.
+```
+data-strcture/
+├── arrays/          # Arreglos y operaciones básicas
+├── linked_lists/    # Listas enlazadas simples y dobles
+├── stacks/          # Pilas (LIFO)
+├── queues/          # Colas (FIFO)
+├── trees/           # Árboles binarios, AVL, BST
+├── graphs/          // Grafos y algoritmos de recorrido
+├── hash_tables/     // Tablas hash
+├── heaps/           // Montículos (Min/Max Heap)
+└── tries/           // Árboles de prefijos
+```
+
+---
+
+## 🎯 Objetivos
+
+* Dominar estructuras de datos fundamentales
+* Mejorar lógica de programación
+* Prepararse para entrevistas técnicas
+* Practicar resolución de problemas
+
+---
+
+## 📈 Nivel de Dificultad
+
+| Nivel   | Descripción                     |
+|---------|---------------------------------|
+| 🟢 Básico     | Arrays, loops, stacks           |
+| 🟡 Intermedio | Linked Lists, queues, recursion |
+| 🔴 Avanzado   | Trees, graphs, optimization      |
+
+---
+
+## 🛠️ Plataformas para practicar
+
+* [LeetCode](https://leetcode.com)
+* [HackerRank](https://www.hackerrank.com)
+* [Codewars](https://www.codewars.com)
+* [Exercism](https://exercism.org)
+
+---
+
+## 📜 Licencia
+
+Proyecto libre para estudio y práctica.
